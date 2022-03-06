@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Cars">
+        <item>https://media.vov.vn/sites/default/files/styles/large/public/2021-07/lamborghini_aventador_ultimae_16.jpg</item>
+        <item>https://cdn-img.thethao247.vn/upload/hiep95/2020/04/01/Lamborghini-Huracan.jpg</item>
+        <item>https://media.vov.vn/uploaded/mgexs9y4vchrwhdtzaag/2019_04_09/lamborghini_huracan_evo_preview_ext_1_1200x800_thyl.jpg</item>
+    </string-array>
+    <string-array name="Tower">
+        <item>https://cdn.pixabay.com/photo/2020/03/13/01/02/burj-khalifa-4926555_1280.jpg</item>
+        <item>https://bomchuyendung.com/upload/images/the-landmark-la-toa-nha-cao-nhat-viet-nam-va-ca-khu-vuc-dong-nam-a.jpg</item>
+        <item>https://luxuo.vn/wp-content/uploads/2019/04/safdie-architects-marina-bay-sands-fourth-tower-singapore_dezeen_2364_hero.jpg</item>
+    </string-array>
+    <string-array name="Foods">
+        <item>https://media.foody.vn/res/g107/1068028/prof/s/foody-upload-api-foody-mobile-phocv-210304193851.jpg</item>
+        <item>https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/banh-mi-thit-bo-nuong-thumbnail-1.jpg</item>
+        <item>https://assets.grab.com/wp-content/uploads/sites/11/2019/09/25114908/kaiwaii.food_67277646_386402125348326_1540538584472026412_n.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/Cars</item>
+        <item>@array/Tower</item>
+        <item>@array/Foods</item>
+    </array>
+</resources>
